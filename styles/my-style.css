@@ -1,0 +1,10 @@
+body{
+    font-family: arial;
+    font-size: 14px;
+	background-color: #f45c42; 
+	text-align: center;
+}
+
+.underline{
+    text-decoration: underline;
+}
